@@ -1,8 +1,8 @@
 # Bmap
 
-http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987
+[KLE](http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987)
 
-![Bmap](https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png)
+![Preview](https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png)
 
 ## Basic
 
@@ -12,7 +12,7 @@ http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987
 
 ### Functions
 
-![Functions](https://user-images.githubusercontent.com/43980777/148636073-0ec253c1-8ce4-4a26-8ea0-d266e4255d05.png)
+![Functions](https://user-images.githubusercontent.com/43980777/148636499-f38cd30c-c34f-4b56-a145-59d1c6adee63.png)
 
 ## Core
 
@@ -32,7 +32,7 @@ http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987
 
 ### Standard
 
-![Standard](https://user-images.githubusercontent.com/43980777/148636075-a210b109-aad1-4d42-9517-a4a881ce1b3a.png)
+![Standard](https://user-images.githubusercontent.com/43980777/148636508-7a90e045-b164-4668-8d2c-c33da7da806a.png)
 
 ### Vi
 
@@ -48,4 +48,4 @@ http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987
 
 ## Implements
 
-http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca
+[Text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca)
