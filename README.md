@@ -9,10 +9,6 @@
 
 _#TODO_
 
-[KLE](http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987)
-
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png"></p>
-
 <br>
 
 ### 📔 Story
@@ -28,6 +24,12 @@ _#TODO_
 <br><br>
 
 ## 📒 Design
+
+[KLE](http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png"></p>
+
+<br>
 
 ### 🔰 Basic
 
