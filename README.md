@@ -25,6 +25,8 @@ _#TODO_
 
 ## 📒 Design
 
+_#TODO_
+
 [KLE](http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png"></p>
@@ -123,10 +125,12 @@ _#TODO_
 
 ## 💌 Credits
 
-_#TODO_
-
 Special thanks to:
-- [****]() by []()
+- [**Keybinding design blogs**](http://xahlee.info/kbd/keybinding_index.html) by [Xah Lee](http://xahlee.info/index.html)
+- [**Ergoemacs-mode**](https://ergoemacs.github.io) by [Xah Lee, David Capello, Kin Storm, Walter Landry and Matthew Fidler](https://github.com/ergoemacs/ergoemacs-mode/graphs/contributors)
+- [**Vim keymap**](https://www.vim.org) by [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar)
+- [**Kakoune keymap**](https://kakoune.org) by [Maxime Coste](https://github.com/mawww)
+- [**Helix keymap**](https://helix-editor.com) by [Blaž Hrastnik](https://github.com/archseer)
 
 <br><br><br><br>
 
