@@ -43,10 +43,10 @@ _#TODO_
 
 _#TODO_
 
-- Shift:
-- Control:
-- Mod:
-- System:
+- Shift: _#TODO_
+- Control: _#TODO_
+- Mod: _#TODO_
+- System: _#TODO_
 
 <br>
 
