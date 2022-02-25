@@ -31,6 +31,8 @@ _#TODO_
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png"></p>
 
+_#TODO_
+
 <br>
 
 ### 🔰 Basic
@@ -41,6 +43,11 @@ _#TODO_
 
 _#TODO_
 
+- Shift:
+- Control:
+- Mod:
+- System:
+
 <br>
 
 #### 🧰 Functions
@@ -48,6 +55,10 @@ _#TODO_
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636499-f38cd30c-c34f-4b56-a145-59d1c6adee63.png"></p>
 
 _#TODO_
+
+Further explanation:
+- Area: _#TODO_
+- Advance: _#TODO_
 
 <br><br>
 
@@ -61,15 +72,13 @@ _#TODO_
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636070-6f1a9db4-d0fe-49f1-8d84-bd54c2799a21.png"></p>
 
-_#TODO_
-
 <br>
 
 #### 🅰️ Action
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636071-73b2fc38-57ea-4d5d-ac33-ca8800dcf68a.png"></p>
-
 _#TODO_
+
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636071-73b2fc38-57ea-4d5d-ac33-ca8800dcf68a.png"></p>
 
 <br><br>
 
@@ -77,25 +86,43 @@ _#TODO_
 
 #### 🐎 ZXCV
 
+_#TODO_
+
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636072-c54d8359-221f-4f4f-84a8-f9650c1ecee4.png"></p>
 
-_#TODO_
+Further explanation:
+- Time: _#TODO_
+- Cut: _#TODO_
+- In: _#TODO_
+- Out: _#TODO_
 
 <br>
 
 #### 📃 Modern standard
 
+_#TODO_
+
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636508-7a90e045-b164-4668-8d2c-c33da7da806a.png"></p>
 
-_#TODO_
+Further explanation:
+- Target: _#TODO_
+- Play: _#TODO_
+- Previous: _#TODO_
+- Next: _#TODO_
+- Code: _#TODO_
+- Terminal: _#TODO_
 
 <br>
 
 #### 📜 classic standard
 
+_#TODO_
+
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636076-ef52e6b8-6a26-4088-a82f-9341dba36a2c.png"></p>
 
-_#TODO_
+Further explanation:
+- Assign: _#TODO_
+- Command: _#TODO_
 
 <br>
 
@@ -103,7 +130,11 @@ _#TODO_
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636077-94ad73d2-b30c-4905-9455-2ce0ab63d396.png"></p>
 
-_#TODO_
+Further explanation:
+- Focus: _#TODO_
+- Self: _#TODO_
+- Cycle: _#TODO_
+- Item: _#TODO_
 
 <br>
 
@@ -111,15 +142,15 @@ _#TODO_
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636078-199e2ad5-cca1-4925-9ffc-f6929398cf68.png"></p>
 
-_#TODO_
+Further explanation:
+- Local: _#TODO_
+- Movement: _#TODO_
 
 <br><br>
 
 ## 🚀 Implements
 
-_#TODO_
-
-[Text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca)
+[Text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca) (WIP)
 
 <br><br>
 
