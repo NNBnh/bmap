@@ -39,22 +39,20 @@ _#TODO_
 
 #### 🚥 Mods
 
+These key don't do anything by itself, but it can be combined with each other and other key to alter the meaning.
+
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636069-315df6d9-f1ac-4e63-b134-6ed9451097ec.png"></p>
 
-_#TODO_
-
-- Shift: _#TODO_
-- Control: _#TODO_
-- Mod: _#TODO_
-- System: _#TODO_
+- Shift: Do something stronger, wider of do in reverse.
+- Control: Do something more focus, more specific or with more control.
+- Mod: Do something but differently, with small change or do in alternative meta.
+- System: Do systemwide operation.
 
 <br>
 
 #### 🧰 Functions
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636499-f38cd30c-c34f-4b56-a145-59d1c6adee63.png"></p>
-
-_#TODO_
 
 Further explanation:
 - Area: _#TODO_
@@ -86,15 +84,15 @@ _#TODO_
 
 #### 🐎 ZXCV
 
-_#TODO_
+Four famous standard keys appear on literally every application.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636072-c54d8359-221f-4f4f-84a8-f9650c1ecee4.png"></p>
 
 Further explanation:
-- Time: _#TODO_
-- Cut: _#TODO_
-- In: _#TODO_
-- Out: _#TODO_
+- Time: Undo/redo, timeline operation or open history.
+- Cut: Delete (but also copy) or close.
+- In: Copy or interac to get/set something from the environment (e.g: get items, talk to NPC, toggle zoom).
+- Out: Paste or interac to give/put something from the environment (e.g: fire special weapon).
 
 <br>
 
@@ -122,7 +120,7 @@ _#TODO_
 
 Further explanation:
 - Assign: _#TODO_
-- Command: _#TODO_
+- Command: Open command prompt.
 
 <br>
 
@@ -143,8 +141,8 @@ Further explanation:
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636078-199e2ad5-cca1-4925-9ffc-f6929398cf68.png"></p>
 
 Further explanation:
-- Local: _#TODO_
-- Movement: _#TODO_
+- Local: Do something in close range.
+- Movement: Jump (in text editor), quick teleport or open map.
 
 <br><br>
 
