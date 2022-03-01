@@ -56,7 +56,7 @@ These key don't do anything by itself, but it can be combined with each other an
 
 Further explanation:
 - Area: _#TODO_
-- Advance: _#TODO_
+- Advance: Open advance/pipe menu, jump (in game).
 
 <br><br>
 
@@ -89,37 +89,39 @@ Four famous standard keys appear on literally every application.
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636072-c54d8359-221f-4f4f-84a8-f9650c1ecee4.png"></p>
 
 Further explanation:
-- Time: Undo/redo, timeline operation or open history.
-- Cut: Delete (but also copy) or close.
-- In: Copy or interac to get/set something from the environment (e.g: get items, talk to NPC, toggle zoom).
-- Out: Paste or interac to give/put something from the environment (e.g: fire special weapon).
+- Time: Undo/redo, timeline operation, open history, running (in game).
+- Cut: Delete (but also copy), close.
+- In: Copy, interac to get/set something from the environment (e.g: get items, talk to NPC, toggle zoom).
+- Out: Paste, interac to give/put something from the environment (e.g: fire special weapon).
 
 <br>
 
 #### 📃 Modern standard
 
-_#TODO_
+Standard from modern productivity tools and editors.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636508-7a90e045-b164-4668-8d2c-c33da7da806a.png"></p>
 
 Further explanation:
+- Target: Jump to next/previous target.
+- Play: Play/pause something, print out.
+- Previous/Next: Changes selected items to next/previous value.
+- Code: Comment, code format.
+
+Reason:
 - Target: _#TODO_
-- Play: _#TODO_
-- Previous: _#TODO_
-- Next: _#TODO_
 - Code: _#TODO_
-- Terminal: _#TODO_
 
 <br>
 
 #### 📜 classic standard
 
-_#TODO_
+Standard from [`vi` editor](https://en.wikipedia.org/wiki/Vi).
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636076-ef52e6b8-6a26-4088-a82f-9341dba36a2c.png"></p>
 
 Further explanation:
-- Assign: _#TODO_
+- Assign: Select a register.
 - Command: Open command prompt.
 
 <br>
@@ -129,6 +131,12 @@ Further explanation:
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636077-94ad73d2-b30c-4905-9455-2ce0ab63d396.png"></p>
 
 Further explanation:
+- Focus: Crawl, stealthily, change operating range.
+- Self: _#TODO_
+- Cycle: Rotate main selection, cycle through items, switch item.
+- Item: Rotate selection contents, open inventory..
+
+Reason:
 - Focus: _#TODO_
 - Self: _#TODO_
 - Cycle: _#TODO_
@@ -142,7 +150,7 @@ Further explanation:
 
 Further explanation:
 - Local: Do something in close range.
-- Movement: Jump (in text editor), quick teleport or open map.
+- Movement: Jump (in text editor), quick teleport, open map.
 
 <br><br>
 
