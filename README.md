@@ -7,7 +7,7 @@
 
 ## 💡 About
 
-_#TODO_
+**Bmap** is a universal keymap system design for almost all applications and even games. By define each key on the keyboard with a meanings, the applications can map there own set of shortcuts/actions to fit those meanings.
 
 <br>
 
@@ -21,17 +21,22 @@ _#TODO_
 
 _#TODO_
 
+<!--
+- Familiarity: The design is taking from standard keymap from many popular applications, there for it's:
+  - Easy to get used to.
+  - Many GUI applications have already roughly follow this keymap system.
+- Ergonomic:
+  - Have left-handed variant.
+-->
+
 <br><br>
 
 ## 📒 Design
 
-_#TODO_
-
-[KLE](http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987)
+Here is the full design where each keys is define with a meaning:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png"></p>
-
-_#TODO_
+<p align="center"><a href="http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987">KLE file</a></p>
 
 <br>
 
@@ -155,6 +160,8 @@ Further explanation:
 <br><br>
 
 ## 🚀 Implements
+
+We are currently focus on heavy keyboard usage productivity applications, specifically code editor:
 
 [Text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca) (WIP)
 
