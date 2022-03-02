@@ -60,7 +60,7 @@ These key don't do anything by itself, but it can be combined with each other an
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636499-f38cd30c-c34f-4b56-a145-59d1c6adee63.png"></p>
 
 Further explanation:
-- Area: _#TODO_
+- Area: Switch tabs, open panel, expand drawing area, toggle GUI.
 - Advance: Open advance/pipe menu, jump (in game).
 
 <br><br>
@@ -137,9 +137,9 @@ Further explanation:
 
 Further explanation:
 - Focus: Crawl, stealthily, change operating range.
-- Self: _#TODO_
+- Self: Flip selection cursor and anchor, do something to/about self, taunt.
 - Cycle: Rotate main selection, cycle through items, switch item.
-- Item: Rotate selection contents, open inventory..
+- Item: Rotate selection contents, open inventory.
 
 Reason:
 - Focus: _#TODO_
@@ -161,9 +161,7 @@ Further explanation:
 
 ## 🚀 Implements
 
-We are currently focus on heavy keyboard usage productivity applications, specifically code editor:
-
-[Text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca) (WIP)
+We are currently focus on heavy keyboard usage productivity applications, specifically [text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca) (WIP).
 
 <br><br>
 
@@ -175,6 +173,7 @@ Special thanks to:
 - [**Vim keymap**](https://www.vim.org) by [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar)
 - [**Kakoune keymap**](https://kakoune.org) by [Maxime Coste](https://github.com/mawww)
 - [**Helix keymap**](https://helix-editor.com) by [Blaž Hrastnik](https://github.com/archseer)
+- [**Pepper keymap**](https://github.com/vamolessa/pepper) by [Matheus Lessa](https://github.com/vamolessa)
 
 <br><br><br><br>
 
