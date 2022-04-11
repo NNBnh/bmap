@@ -114,8 +114,10 @@ Further explanation:
 - Code: Comment, code format.
 
 Reason:
-- Target: _#TODO_
-- Code: _#TODO_
+- Target: In many tools: press <kbd>Ctrl</kbd>+<kbd>F</kbd> to "Find", press <kbd>Ctrl</kbd>+<kbd>H</kbd> to "Find and Replace". But because we have already use <kbd>F</kbd> so we will use <kbd>H</kbd> to target.
+- Code:
+  - <kbd>Ctrl</kbd>+<kbd>/</kbd> often be use to comment lines in many code editor.
+  - <kbd>/</kbd> often be use to open console commands in some games.
 
 <br>
 
