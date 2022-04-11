@@ -144,10 +144,7 @@ Further explanation:
 - Item: Rotate selection contents, open inventory.
 
 Reason:
-- Focus: _#TODO_
-- Self: _#TODO_
-- Cycle: _#TODO_
-- Item: _#TODO_
+_#TODO_
 
 <br>
 
