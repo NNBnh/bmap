@@ -35,7 +35,7 @@ _#TODO_
 
 Here is the full design where each keys is define with a meaning:
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636068-9fdcd829-30d4-4c2b-928d-84c140178a67.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165454623-bb5d771f-d672-4125-8627-b1ddfbc3b7db.png"></p>
 <p align="center"><a href="http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987">KLE file</a></p>
 
 <br>
@@ -46,7 +46,7 @@ Here is the full design where each keys is define with a meaning:
 
 These key don't do anything by itself, but it can be combined with each other and other key to alter the meaning.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636069-315df6d9-f1ac-4e63-b134-6ed9451097ec.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165455782-ccd8ea72-341f-4322-ac76-c35624c799d2.png"></p>
 
 - Shift: Do something stronger, wider of do in reverse.
 - Control: Do something more focus, more specific or with more control.
@@ -57,7 +57,7 @@ These key don't do anything by itself, but it can be combined with each other an
 
 #### 🧰 Functions
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636499-f38cd30c-c34f-4b56-a145-59d1c6adee63.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165456038-954c1c9b-50a0-4feb-ae08-89ebaa3aa38a.png"></p>
 
 Further explanation:
 - Area: Switch tabs, open panel, expand drawing area, toggle GUI.
@@ -73,15 +73,14 @@ _#TODO_
 
 #### 🔄 Movement
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636070-6f1a9db4-d0fe-49f1-8d84-bd54c2799a21.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165456922-ace83a36-bf02-476b-907c-522784c911fb.png"></p>
+
 
 <br>
 
 #### 🅰️ Action
 
-_#TODO_
-
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636071-73b2fc38-57ea-4d5d-ac33-ca8800dcf68a.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165456978-c4701e3e-1251-40f5-a1de-0199b0baf3df.png"></p>
 
 <br><br>
 
@@ -91,7 +90,7 @@ _#TODO_
 
 Four famous standard keys appear on literally every application.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636072-c54d8359-221f-4f4f-84a8-f9650c1ecee4.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165457045-8c2988b3-c7ad-44da-928a-550034af214a.png"></p>
 
 Further explanation:
 - Time: Undo/redo, timeline operation, open history, running (in game).
@@ -105,7 +104,7 @@ Further explanation:
 
 Standard from modern productivity tools and editors.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636508-7a90e045-b164-4668-8d2c-c33da7da806a.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165457095-85db9258-3d53-42a6-82a7-487c51639645.png"></p>
 
 Further explanation:
 - Target: Jump to next/previous target.
@@ -125,7 +124,7 @@ Reason:
 
 Standard from [`vi` editor](https://en.wikipedia.org/wiki/Vi).
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636076-ef52e6b8-6a26-4088-a82f-9341dba36a2c.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165457161-c067d129-1754-4785-adb7-4289d9f4da3c.png"></p>
 
 Further explanation:
 - Assign: Select a register.
@@ -135,22 +134,21 @@ Further explanation:
 
 #### 🎮 Gaming standard
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636077-94ad73d2-b30c-4905-9455-2ce0ab63d396.png"></p>
+These keymap are based on popular game genres keymaps with [ESDF mod](http://use-esdf.org) in mind (every keys are shift to the right 1 unit).
+
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165457965-958da757-4ec4-4491-89a8-d6924bc57c21.png"></p>
 
 Further explanation:
 - Focus: Crawl, stealthily, change operating range.
-- Self: Flip selection cursor and anchor, do something to/about self, taunt.
-- Cycle: Rotate main selection, cycle through items, switch item.
-- Item: Rotate selection contents, open inventory.
-
-Reason:
-_#TODO_
+- Self: Flip selection cursor and anchor, do something to/about self.
+- Item: Rotate main selection, cycle through items, switch item.
+- Communicated: Talk/chat (with team), ping, taunt.
 
 <br>
 
 #### 🎲 Other
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/148636078-199e2ad5-cca1-4925-9ffc-f6929398cf68.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165457300-22588ecf-5dcc-47d8-904a-41e54e682b55.png"></p>
 
 Further explanation:
 - Local: Do something in close range.
