@@ -1,8 +1,8 @@
-<h1 align="center">Bmap</h1>
+<p align="center"><img width="25%" src="https://user-images.githubusercontent.com/43980777/165581827-3e126aca-1da7-481b-8783-2b346cd0eeab.png"></p>
 <p align="center">SuperB Keymap System</p>
 <p align="center">
   <a href="https://github.com/NNBnh/bmap/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/bmap?labelColor=585858&color=F7CA88&style=for-the-badge" alt="License: GPL-3.0"></a>
-  <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/github/last-commit/NNBnh/bmap?labelColor=585858&color=FFC387&style=for-the-badge" alt="Work in progress"></a>
+  <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a>
 </p>
 
 ## 💡 About
@@ -11,11 +11,15 @@
 
 <br>
 
+<!--
+
 ### 📔 Story
 
-_#TODO_
+_#TODO_ Video
 
 <br>
+
+-->
 
 ### ✨ Features
 
