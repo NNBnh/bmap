@@ -19,15 +19,12 @@ _#TODO_
 
 ### ✨ Features
 
-_#TODO_
-
-<!--
 - Familiarity: The design is taking from standard keymap from many popular applications, there for it's:
-  - Easy to get used to.
+  - Easy to learn and get used to.
   - Many GUI applications have already roughly follow this keymap system.
 - Ergonomic:
-  - Have left-handed variant.
--->
+  - It keep your hand on home position (unlike WASD and HJKL that shift all your finger to the left 1 key)
+  - Have left-handed variant (swap variant).
 
 <br><br>
 
@@ -35,7 +32,7 @@ _#TODO_
 
 Here is the full design where each keys is define with a meaning:
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165454623-bb5d771f-d672-4125-8627-b1ddfbc3b7db.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165561508-1b1a59a7-8d96-4f31-a2e5-a7e2eca00076.png"></p>
 <p align="center"><a href="http://www.keyboard-layout-editor.com/#/gists/99f29c7a0a3c4bceab6afa28003b5987">KLE file</a></p>
 
 <br>
@@ -67,11 +64,11 @@ Further explanation:
 
 ### ❤️ Core
 
-_#TODO_
+Bmap have two keymap groups, one for movement and one for action. These are all used frequently and deserve to be place on the most easy to reach and comfortable to press positions:
 
 <br>
 
-#### 🔄 Movement
+#### ↔️ Movement
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/165456922-ace83a36-bf02-476b-907c-522784c911fb.png"></p>
 
@@ -81,6 +78,14 @@ _#TODO_
 #### 🅰️ Action
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/165456978-c4701e3e-1251-40f5-a1de-0199b0baf3df.png"></p>
+
+<br>
+
+#### 🔀 Swap variant
+
+Depend on the application, user preference or if you are left handed, you could use this variant.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/165561282-384fce38-3b4c-47d9-9919-4223cfb49a97.png"></p>
 
 <br><br>
 
@@ -134,7 +139,7 @@ Further explanation:
 
 #### 🎮 Gaming standard
 
-These keymap are based on popular game genres keymaps with [ESDF mod](http://use-esdf.org) in mind (every keys are shift to the right 1 unit).
+These keymap are based on popular game genres keymaps with [ESDF mod](http://use-esdf.org) in mind (every keys are shift to the right 1 key).
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/165457965-958da757-4ec4-4491-89a8-d6924bc57c21.png"></p>
 
