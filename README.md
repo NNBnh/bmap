@@ -1,9 +1,5 @@
 <p align="center"><img width="25%" src="https://user-images.githubusercontent.com/43980777/165583487-a739cd64-7def-43c2-8268-fbe683d2efb1.png"></p>
 <p align="center">SuperB Keymap System</p>
-<p align="center">
-  <a href="https://github.com/NNBnh/bmap/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/bmap?labelColor=374059&color=F7CA88&style=for-the-badge" alt="License: GPL-3.0"></a>
-  <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23F7CA88.svg?labelColor=374059&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a>
-</p>
 
 ## 💡 About
 
@@ -167,7 +163,7 @@ Further explanation:
 
 ## 🚀 Implements
 
-We are currently focus on heavy keyboard usage productivity applications, specifically [text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca) (WIP).
+We are focus on heavy keyboard usage productivity applications, specifically [text editor](http://www.keyboard-layout-editor.com/#/gists/e12289897003889ee40f5628e31975ca).
 
 <br><br>
 
@@ -181,10 +177,11 @@ Special thanks to:
 - [**Helix keymap**](https://helix-editor.com) by [Blaž Hrastnik](https://github.com/archseer)
 - [**Pepper keymap**](https://github.com/vamolessa/pepper) by [Matheus Lessa](https://github.com/vamolessa)
 
-<br><br><br><br>
 
----
-
-> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
->
-> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
+<a href="https://nnb.codeberg.page">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0284C7&fontColor=F0F9FF&height=128&desc=Made%20with%20%26lt;3%20by%20NNB&descAlignY=80"
+    alt="Made with <3 by NNB"
+  />
+</a>
